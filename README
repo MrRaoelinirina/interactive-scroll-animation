@@ -1,0 +1,23 @@
+# GSAP Scroll Animation
+
+This project demonstrates a simple scroll animation using GSAP (GreenSock Animation Platform). It includes a text animation that appears as you scroll down the page.
+
+## Features
+- **Page Load Animation**: The content fades in and slides up from the bottom.
+- **Scroll Animation**: The content becomes fully visible and animated smoothly as you scroll.
+
+## Getting Started
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/gsap-scroll-animation.git
+    ```
+2. Open `index.html` in your browser to view the animation.
+
+## Author
+Sergio Raoelinirina
+
+## Date
+January 13, 2022
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
