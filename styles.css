@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 200vh; /* Augmente la hauteur pour permettre le défilement */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f4f6;
+}
+
+.content {
+    width: 80%;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(50px);
+}
+
+h1 {
+    font-size: 4rem;
+    color: #333;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #666;
