@@ -1,4 +1,4 @@
-# GSAP Scroll Animation
+# interactive-scroll-animation
 
 This project demonstrates a simple scroll animation using GSAP (GreenSock Animation Platform). It includes a text animation that appears as you scroll down the page.
 
@@ -9,7 +9,7 @@ This project demonstrates a simple scroll animation using GSAP (GreenSock Animat
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gsap-scroll-animation.git
+    git clone https://github.com/MrRaoelinirina/interactive-scroll-animation.git
     ```
 2. Open `index.html` in your browser to view the animation.
 
